@@ -1,4 +1,4 @@
-As a part of the PwC Switzerland Virtual Internship Program offered by Forage, I have created a Dashboard, using Power BI.
+As a part of the TATA Virtual Internship Program offered by Forage, I have created a Dashboard, using Power BI.
 
 Objective: To create visualizations to represent HR data.
 
